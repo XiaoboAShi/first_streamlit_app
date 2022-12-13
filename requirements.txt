@@ -1,2 +1,4 @@
 # requirements.txt
-snowflake-connetor-python[pandas]
+#snowflake-connetor-python
+#snowflake-connetor-python[pandas]
+snowflake-connector-python[pandas] pyarrow<8.1.0,>=8.0.0
